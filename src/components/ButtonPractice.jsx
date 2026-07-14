@@ -11,14 +11,14 @@ function ButtonPractice() {
     <div>
       {/* TODO 3. 첫 번째 Button 컴포넌트에 label, bgColor, buttonHandler를 전달해주세요. */}
       <Button
-        label="첫 번째 버튼"
-        bgColor="purple"
+        label="리액트 어렵죠..? ㅠㅠ"
+        bgColor="#5e3afd"
         buttonHandler={firstBtn}
       />
       {/* TODO 4. 두 번째 Button 컴포넌트에 label, bgColor, buttonHandler를 전달해주세요. */}
       <Button
-        label="두 번째 버튼"
-        bgColor="green"
+        label="과제 끝내기!"
+        bgColor="#2c9c4e"
         buttonHandler={secondBtn}
       />
     </div>
